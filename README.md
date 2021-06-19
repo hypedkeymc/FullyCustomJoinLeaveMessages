@@ -1,4 +1,4 @@
-## FullyCustomJoinLeaveMessages
+## Fully Custom Join Leave Messages
 Lets you completely customize your minecraft server join & leave messages!
 - Color codes 
 - Lightweight
