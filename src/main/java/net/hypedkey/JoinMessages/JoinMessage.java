@@ -14,7 +14,7 @@ public final class JoinMessage extends JavaPlugin implements Listener {
         // Plugin startup logic
         this.getConfig().options().copyDefaults();
         saveDefaultConfig();
-        getLogger().info("TEST 2");
+        getLogger().info("Custom Join/Leave messages enabled!");
         getServer().getPluginManager().registerEvents(joinevent, this);
         getServer().getPluginManager().registerEvents(quitevent, this);
     }
